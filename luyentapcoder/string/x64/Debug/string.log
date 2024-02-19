@@ -1,0 +1,13 @@
+﻿  9_6.cpp
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(14,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(19,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(25,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(29,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(44,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(65,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(72,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(87,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(92,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(96,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\string\9_6.cpp(99,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  string.vcxproj -> C:\Users\ADMIN\Desktop\laptrinhcoban\study with me\luyentapcoder\x64\Debug\string.exe
