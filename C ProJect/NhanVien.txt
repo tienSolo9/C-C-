@@ -1,0 +1,5 @@
+01;Pham Ngoc Tien;9/11/2004;Nam;Quan ly;500.000
+02;Nguyen Ngoc Thach;12/7/2004;Nam;Nhan Vien;70.000
+03;Dao Viet Anh;2/7/2004;Nam;Nhan Vien;80.000
+04;Nguyen Ta Phong;21/12/2004;Nam;Nhan Vien;90.000
+05;Phung Manh Thang;11/11/2004;Nam;Nhan Vien;100.000

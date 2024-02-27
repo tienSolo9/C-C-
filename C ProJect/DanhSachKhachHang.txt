@@ -1,0 +1,5 @@
+01;Ronaldo;0988618155;Bac Ninh
+02;Nguyen Anh Vu;0395527081;Ha Noi
+03;Doan Doanh Thai;0906111135;Ha Noi
+04;Bill Gate;0969816133;My Tho
+05;Son Tung MTP;0375170399;Thai Binh
